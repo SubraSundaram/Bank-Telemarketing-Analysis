@@ -2,9 +2,7 @@
 Analysis of Bank Telemarketing data to effectively target Customers
 # Using Data to predict the success of bank telemarketing
 
-__Jupyter Notebook with code, experimentation, further insights, and deployment strategies:__ [click here](https://github.com/SubraSundaram/)
-
-Car-Price-Analysis/blob/main/Subra_practical_application_prompt_II.ipynb).
+__Jupyter Notebook with code, experimentation, further insights, and deployment strategies:__ [click here](https://github.com/SubraSundaram/Bank-Telemarketing-Analysis/blob/main/prompt_III.ipynb)
 
 __Reference credit: Insights and the project demonstrated during office hours over the last six modules.__
 
